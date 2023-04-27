@@ -8,5 +8,6 @@
  */
 int main(void){
     printf("Hello, World!\n");
+    printf("I am Ali");
     return 0;
 }
